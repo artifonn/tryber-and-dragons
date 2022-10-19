@@ -20,7 +20,6 @@ abstract class Race {
   }
 
   public abstract get maxLifePoints(): number;
-
 }
 
 export default Race;
